@@ -1,4 +1,6 @@
-[Minecraft server](MCUnoGame.aternos.me). Current game: Uno
+[Minecraft server](MCUnoGame.aternos.me). 
+- Current game: Uno
+- Version: 1.15.2
 
 
 <!-- ```markdown
