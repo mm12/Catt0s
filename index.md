@@ -1,4 +1,4 @@
-Minecraft server: [Link](MCUnoGame.aternos.me)
+[Minecraft server](MCUnoGame.aternos.me). Current game: Uno
 
 
 <!-- ```markdown
